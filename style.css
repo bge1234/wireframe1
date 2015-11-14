@@ -1,0 +1,25 @@
+.container{
+  width: 1000px;
+}
+header{
+  width: 1000px;
+  margin: 20px;
+}
+.left{
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+  float: left;
+}
+.right{
+  width: 800px;
+  float: right;
+}
+.upper{
+}
+.lower{
+}
+.product{
+  float: left;
+  margin: 50px;
+}
